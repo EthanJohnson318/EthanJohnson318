@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EthanJohnson318
+- 👀 I’m interested in Computer Engineering
+- 🌱 I’m currently learning C++, Java, BASH
+- 📫 How to reach me: ejohnson45432@gmail.com
