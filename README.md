@@ -1,4 +1,2 @@
-- 👋 Hi, I’m @EthanJohnson318
-- 👀 I'm a Computer Engineering student at Wright State University
-- 🌱 I’m currently learning C, C++, and Python
-- 📫 How to reach me: ejohnson45432@gmail.com
+# Ethan Johnson
+### Test line
