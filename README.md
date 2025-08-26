@@ -6,7 +6,7 @@ I work as an IT intern at the Air Force Research Laboratory (AFRL), supporting D
 
 ## Projects
 1. HPC system usage metrics: this projects involves data analysis via the OpenSearch Python API to visualize hardware usage on HPC systems. This includes memory, CPU, and GPU usage, alongside other metrics.
-2. Arch Linux configuration: as I continue configuring my home desktop running Arch Linux, I plan to track my configuration with GitHub. This will assist with version control and possible integration with future setups.
+2. Arch Linux configuration: as I continue configuring my home desktop running Arch Linux, I plan to track my progress with GitHub. This will assist with version control and possible integration with future setups.
 
 ## Tools
 I'm currently learning Bash and Python scripting, along with C development for embedded software development (Arduino and Raspberry Pi)
