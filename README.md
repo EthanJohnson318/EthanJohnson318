@@ -9,7 +9,7 @@ I work as an IT intern at the Air Force Research Laboratory (AFRL), supporting D
 2. Arch Linux configuration: as I continue configuring my home desktop running Arch Linux, I plan to track my progress with GitHub. This will assist with version control and possible integration with future setups.
 
 ## Tools
-I'm currently learning Bash and Python scripting, along with C development for embedded software development (Arduino and Raspberry Pi)
+I'm currently learning Bash and Python scripting, along with C and C++ development for embedded software development (Arduino and Raspberry Pi)
 
 ## Courses
 My fall 2025 semester schedule includes: Microprocessor-based Embedded Systems, Operating System Usage, Electronic Devices/Circuits, and Team Projects I
